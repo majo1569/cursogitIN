@@ -1,2 +1,2 @@
 //hola
-alert("curso github");
+alert("hola mundo");
